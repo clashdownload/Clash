@@ -37,6 +37,8 @@ Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Andr
 
 #### 飞机云机场测速
 
+![FeijiCloud-SpeedTest-SZDX](https://github.com/clashdownload/Clash/assets/157440626/9d053990-e7e4-4e2f-82d7-c594443b035d)
+
 ### 2. 大哥云
 
 #### 大哥云官网
@@ -57,6 +59,8 @@ Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Andr
 
 #### 大哥云机场测速
 
+![dageyun-SpeedTest-SZDX](https://github.com/clashdownload/Clash/assets/157440626/c807fd86-e5d0-464d-9eb6-a177af2c5c9a)
+
 ### 3. 龙猫云
 
 #### 龙猫云官网
@@ -73,6 +77,8 @@ Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Andr
 | VIP4套餐 | 按月付  | 120.00 | 1000 GB | 无限制    |
 
 #### 龙猫云机场测速
+
+![TotoroCloud-SpeedTest-SZDX](https://github.com/clashdownload/Clash/assets/157440626/cc632e3c-d89f-494c-aea2-b55643478ad2)
 
 ### 4. 速云梯
 
@@ -92,6 +98,8 @@ Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Andr
 
 #### 速云梯机场测速
 
+![SuYunTi-SpeedTest-SZDX](https://github.com/clashdownload/Clash/assets/157440626/9506b927-8ab9-4631-b7b0-d3a7b107e08d)
+
 ### 5. 极速VIP加速器
 
 #### 极速VIP加速器官网
@@ -110,6 +118,8 @@ Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Andr
 
 #### 极速VIP加速器机场测速
 
+![JisuVIP-SpeedTest-SZDX](https://github.com/clashdownload/Clash/assets/157440626/2c273a74-5f81-41d6-8dad-b394d963d54f)
+
 ### 6. 飞鸟机场
 
 #### 飞鸟机场官网
@@ -126,6 +136,8 @@ Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Andr
 | 钻石套餐 | 按月付  | 150.00 | 1000 GB | 无限制    |
 
 #### 飞鸟机场机场测速
+
+![FlyingBird-SpeedTest-SZDX](https://github.com/clashdownload/Clash/assets/157440626/a80350c5-83a8-4ad2-86fe-1960b0762266)
 
 ### 7. CyberGuard机场
 
@@ -144,6 +156,8 @@ Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Andr
 
 #### CyberGuard机场机场测速
 
+![cyberguard-SpeedTest-SZDX](https://github.com/clashdownload/Clash/assets/157440626/80841b8d-b764-4063-a713-3c075a2af8ac)
+
 ### 8. 万城网络
 
 #### 万城网络官网
@@ -161,6 +175,8 @@ Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Andr
 | 专业   | 按月付  | 138.00 | 780 GB | 10     |
 
 #### 万城网络机场测速
+
+![vcity-SpeedTest-SZDX](https://github.com/clashdownload/Clash/assets/157440626/8e2b2c78-14e1-46f7-ad8b-9eaeb1ff70cd)
 
 ### 9. 奶瓶机场
 
@@ -195,6 +211,8 @@ Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Andr
 
 #### 奶瓶机场机场测速
 
+![Nerwo-SpeedTest-SZDX](https://github.com/clashdownload/Clash/assets/157440626/7c8ed021-eeec-4cd1-ad3c-ccf12e12c4f5)
+
 ### 10. SSRDOG机场
 
 #### SSRDOG机场官网
@@ -212,3 +230,5 @@ Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Andr
 | 按量1000G  | 按次付  | 400.00 | 1000 GB | 无限制    |
 
 #### SSRDOG机场机场测速
+
+![SSRDOG-SpeedTest-SZDX](https://github.com/clashdownload/Clash/assets/157440626/e7d4b356-8b76-4dff-a485-eb6c67028601)
