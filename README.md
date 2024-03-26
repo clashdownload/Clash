@@ -17,28 +17,29 @@ ClashX Pro下载地址：[https://github.com/clashdownload/ClashX_Pro](https://g
 ### Clash for Android
 Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Android](https://github.com/clashdownload/Clash_for_Android)
 
-## Clash节点推荐
+## Clash节点推荐 (2024-03)
 
-### 1. 飞机云
-飞机云是某大型机场的新开分站，相比主站流量单价更低，采用ShadowsocksR、V2ray（vmess）协议，线路覆盖有公网中转和IPLC专线。
+### 1. 疾风云
+JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低价提供优质中高端翻墙节点的机场梯子工具加速器。
 
-#### 飞机云官网
+#### 疾风云官网
 
-[飞机云最新官网](https://ct.affxc.com/feijicloud)
+[疾风云最新官网](https://ct.affxc.com/jfcloud)
 
-#### 飞机云套餐价格
+#### 疾风云套餐价格
 
-| 飞机云 | 付款周期 | 价格    | 每月流量   | 同时在线数量 |
-|-----|------|-------|--------|--------|
-| 入门版 | 按月付  | 12.99 | 50 GB  | 1      |
-| 基础版 | 按月付  | 18.99 | 100 GB | 2      |
-| 标准版 | 按月付  | 28.99 | 200 GB | 3      |
-| 高级版 | 按月付  | 38.99 | 350 GB | 5      |
-| 旗舰版 | 按月付  | 55.99 | 600 GB | 8      |
+| 疾风云 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
+| --- | --- | --- | --- | --- |
+| 入门版 | 按月付 | 9.90 | 50 GB | 1 |
+| 基础版 | 按月付 | 15.99 | 100 GB | 2 |
+| 标准版 | 按月付 | 25.99 | 200 GB | 3 |
+| 高级版 | 按月付 | 35.99 | 350 GB | 5 |
+| 旗舰版 | 按月付 | 49.99 | 600 GB | 8 |
+| 旗舰版大流量 | 按月付 | 95.99 | 1200 GB | 10 |
 
-#### 飞机云机场测速
+#### 疾风云机场测速
 
-![FeijiCloud-SpeedTest-SZDX](https://github.com/clashdownload/Clash/assets/157440626/9d053990-e7e4-4e2f-82d7-c594443b035d)
+![JFCloud-SpeedTest](https://github.com/clashdownload/Clash/assets/157440626/63e100ba-bea6-4eb6-9176-b4132f0a0618)
 
 ### 2. 大哥云
 大哥云是一家海外团队运营的翻墙机场，提供V2ray和Trojan翻墙节点，翻墙线路有直连、隧道中转和IPLC内网专线，国内有移动和联通双线入口，安卓和Windows系统可使用大哥云定制客户端。
