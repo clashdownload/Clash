@@ -17,7 +17,7 @@ ClashX Pro下载地址：[https://github.com/clashdownload/ClashX_Pro](https://g
 ### Clash for Android
 Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Android](https://github.com/clashdownload/Clash_for_Android)
 
-## Clash节点推荐 (2024-03)
+## Clash节点推荐 (2024-04)
 
 ### 1. 疾风云
 JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低价提供优质中高端翻墙节点的机场梯子工具加速器。
