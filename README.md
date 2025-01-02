@@ -1,4 +1,4 @@
-# Clash官网导航
+# Clash官网导航(2025最新)
 
 ## Clash客户端
 
@@ -47,7 +47,7 @@ Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Andr
 
 Clash for Android使用教程：[https://clashforandroid.org/](https://clashforandroid.org/)
 
-## Clash节点推荐 (2024-12)
+## Clash节点推荐 (2025-01)
 
 ### 1. 尔湾云机场
 ErWanCloud尔湾云机场，是实力老牌机场旗下的新开分站，是用低价提供优质中高端翻墙节点的科学上网机场梯子工具加速器。
