@@ -1,4 +1,4 @@
-# Clash官网导航(2025-05最新)
+# Clash官网导航(2025-06最新)
 
 ## Clash客户端
 
@@ -47,9 +47,30 @@ Clash for Android下载地址：[https://github.com/clashdownload/Clash_for_Andr
 
 Clash for Android使用教程：[https://clashforandroid.org/](https://clashforandroid.org/)
 
-## Clash节点推荐 (2025-05)
+## Clash节点推荐 (2025-06)
 
-### 1. 尔湾云机场
+### 1. 优信云机场
+YouxinCloud优信云机场，是用低价提供优质中高端翻墙节点的机场梯子工具科学上网加速器。
+
+#### 优信云机场官网
+
+[优信云机场最新官网](https://ct.affxc.com/youxincloud)
+
+#### 优信云机场套餐价格
+
+| 优信云机场     | 付款周期 | 价格    | 每月流量   | 同时在线数量 |
+|-----------|------|-------|--------|--------|
+| 休闲款套餐     | 按月付  | 15.00 | 50 GB  | 2      |
+| 运动款套餐     | 按月付  | 20.00 | 100 GB | 3      |
+| 商务款套餐     | 按月付  | 30.00 | 200 GB | 4      |
+| 专业款套餐     | 按月付  | 40.00 | 350 GB | 6      |
+| 旗舰版套餐-大流量 | 按月付  | 50.00 | 600 GB | 6      |
+
+#### 优信云机场机场测速
+
+![youxincloud-SpeedTest](https://github.com/user-attachments/assets/473ea4b3-9104-4e33-9577-38e6fb6c26c7)
+
+### 2. 尔湾云机场
 ErWanCloud尔湾云机场，是实力老牌机场旗下的新开分站，是用低价提供优质中高端翻墙节点的科学上网机场梯子工具加速器。
 
 #### 尔湾云官网
@@ -70,27 +91,6 @@ ErWanCloud尔湾云机场，是实力老牌机场旗下的新开分站，是用�
 #### 尔湾云机场测速
 
 ![erwan-SpeedTest](https://github.com/user-attachments/assets/e6dcb071-caeb-4eb8-8f0d-749fbad24975)
-
-### 2. 优信云机场
-YouxinCloud优信云机场，是用低价提供优质中高端翻墙节点的机场梯子工具科学上网加速器。
-
-#### 优信云机场官网
-
-[优信云机场最新官网](https://ct.affxc.com/youxincloud)
-
-#### 优信云机场套餐价格
-
-| 优信云机场     | 付款周期 | 价格    | 每月流量   | 同时在线数量 |
-|-----------|------|-------|--------|--------|
-| 休闲款套餐     | 按月付  | 15.00 | 50 GB  | 2      |
-| 运动款套餐     | 按月付  | 20.00 | 100 GB | 3      |
-| 商务款套餐     | 按月付  | 30.00 | 200 GB | 4      |
-| 专业款套餐     | 按月付  | 40.00 | 350 GB | 6      |
-| 旗舰版套餐-大流量 | 按月付  | 50.00 | 600 GB | 6      |
-
-#### 优信云机场机场测速
-
-![youxincloud-SpeedTest](https://github.com/user-attachments/assets/473ea4b3-9104-4e33-9577-38e6fb6c26c7)
 
 
 ### 3. 疾风云
