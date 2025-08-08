@@ -3,8 +3,8 @@
 ## Clash客户端
 
 ### Hiddify Next
-+Hiddify Next下载地址：[https://github.com/hiddify/hiddify-app/releases](https://github.com/hiddify/hiddify-app/releases)
-+Hiddify Next使用教程：[https://hiddifynext.org/](https://hiddifynext.org/)
++ Hiddify Next下载地址：[https://github.com/hiddify/hiddify-app/releases](https://github.com/hiddify/hiddify-app/releases)
++ Hiddify Next使用教程：[https://hiddifynext.org/](https://hiddifynext.org/)
 
 ### FlClash
 FlClash下载地址：[https://github.com/chen08209/FlClash/releases](https://github.com/chen08209/FlClash/releases)
