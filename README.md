@@ -1,4 +1,4 @@
-# Clash官网导航(2025-08最新)
+# Clash官网导航(2025-09最新)
 
 ## Clash客户端
 
@@ -58,7 +58,7 @@
 + clashN下载地址：[https://github.com/2dust/clashN/releases](https://github.com/2dust/clashN/releases)
 + clashN使用教程：[https://getclashn.org/](https://getclashn.org/)
 
-## Clash节点推荐 (2025-08)
+## Clash节点推荐 (2025-09)
 
 ### 1. 优信云机场
 YouxinCloud优信云机场，是用低价提供优质中高端翻墙节点的机场梯子工具科学上网加速器。
