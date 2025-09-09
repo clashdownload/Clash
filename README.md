@@ -6,10 +6,6 @@
 + Clash Verge Rev下载地址：[https://github.com/clash-verge-rev/clash-verge-rev/releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 + Clash Verge Rev使用教程：[https://clashvergerev.org/](https://clashvergerev.org/)
 
-### Mihomo Party
-+ Mihomo Party下载地址：[https://github.com/mihomo-party-org/mihomo-party/releases](https://github.com/mihomo-party-org/mihomo-party/releases)
-+ Mihomo Party使用教程：[https://mihomo-party.org/](https://mihomo-party.org/)
-
 ### Clash Mi
 + Clash Mi下载地址：[https://github.com/KaringX/clashmi/releases](https://github.com/KaringX/clashmi/releases)
 + Clash Mi使用教程：[https://clash-mi.org/](https://clash-mi.org/)
@@ -30,9 +26,17 @@
 + FlClash下载地址：[https://github.com/chen08209/FlClash/releases](https://github.com/chen08209/FlClash/releases)
 + FlClash使用教程：[https://getflclash.org/](https://getflclash.org/)
 
+### Clash Party
++ Clash Party下载地址：[https://github.com/mihomo-party-org/clash-party/releases](https://github.com/mihomo-party-org/clash-party/releases)
++ Clash Party使用教程：[https://clash-party.org/](https://clash-party.org/)
+
 ### Clash Nyanpasu
 + Clash Nyanpasu下载地址：[https://github.com/libnyanpasu/clash-nyanpasu/releases](https://github.com/libnyanpasu/clash-nyanpasu/releases)
 + Clash Nyanpasu使用教程：[https://clashnyanpasu.org/](https://clashnyanpasu.org/)
+
+### Mihomo Party （停更）
++ Mihomo Party下载地址：[https://github.com/mihomo-party-org/mihomo-party/releases](https://github.com/mihomo-party-org/mihomo-party/releases)
++ Mihomo Party使用教程：[https://mihomo-party.org/](https://mihomo-party.org/)
 
 ### Clash Verge （停更）
 + Clash Verge下载地址：[https://github.com/clashdownload/Clash_Verge](https://github.com/clashdownload/Clash_Verge)
