@@ -1,4 +1,4 @@
-# Clash官网导航(2025-12最新)
+# Clash官网导航(2026-01最新)
 
 ## Clash客户端
 
@@ -62,7 +62,7 @@
 + clashN下载地址：[https://github.com/2dust/clashN/releases](https://github.com/2dust/clashN/releases)
 + clashN使用教程：[https://getclashn.org/](https://getclashn.org/)
 
-## Clash节点推荐 (2025-12)
+## Clash节点推荐 (2026-01)
 
 
 ### 1. 扬帆云机场
