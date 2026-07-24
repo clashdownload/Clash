@@ -62,7 +62,7 @@
 + clashN下载地址：[https://github.com/2dust/clashN/releases](https://github.com/2dust/clashN/releases)
 + clashN使用教程：[https://getclashn.org/](https://getclashn.org/)
 
-## Clash节点推荐 (2026-06)
+## Clash节点推荐 (2026-07)
 
 
 ### 1. 扬帆云机场
