@@ -1,4 +1,17 @@
-# Clash官网导航(2026-08最新)
+<div align="center">
+  <h1>Clash官网导航 (2026年8月更新)</h1>
+  <p>
+    <b>Clash全平台代理客户端下载 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Update-2026.08-brightgreen.svg" alt="Update">
+    <img src="https://img.shields.io/badge/Platform-Win%20%7C%20Mac%20%7C%20iOS%20%7C%20Android%20%7C%20Linux-blue.svg" alt="Platform">
+    <img src="https://img.shields.io/badge/Ecosystem-Clash%20%7C%20Mihomo%20%7C%20Sing--box%20%7C%20Xray-orange.svg" alt="Ecosystem">
+  </p>
+</div>
+
+如果你觉得这个项目对你有帮助，欢迎点右上角的**Star**⭐ 支持一下！。
+
 
 ## Clash客户端
 
@@ -62,7 +75,7 @@
 + clashN下载地址：[https://github.com/2dust/clashN/releases](https://github.com/2dust/clashN/releases)
 + clashN使用教程：[https://getclashn.org/](https://getclashn.org/)
 
-## Clash节点推荐 (2026-08)
+## Clash节点推荐
 
 
 ### 1. 扬帆云机场
