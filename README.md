@@ -12,8 +12,34 @@
 
 如果你觉得这个项目对你有帮助，欢迎点右上角的**Star**⭐ 支持一下！
 
+## 如何选择合适的客户端？
+⚠️停更的客户端无法兼容新协议导致节点不可用，建议更新到更安全、更美观、兼容性更好的新版本
 
-## Clash客户端
+## 新手推荐
+- **Windows 用户**：推荐 FlClash（现代化界面）或 Clash Verge Rev （功能齐全）
+- **macOS 用户**：推荐 FlClash（现代化界面）或 ClashX Meta（免费开源）
+- **iOS 用户**：推荐 Clash Mi（免费开源）
+- **Android 用户**：推荐 Clash Meta for Android（功能最强）
+- **鸿蒙用户**：推荐使用桌易通安装 Clash Meta for Android，原生推荐 Clash Box（专为 HarmonyOS 优化但是需要自签证书）
+
+
+## Clash客户端汇总
+| 客户端                    | 维护状态 | Windows | macOS | Linux | iOS | Android | 仓库 | 教程 |
+|------------------------|------|---------|-------|-------|-----|---------|----|----|
+| [Clash for Android](https://clashforandroid.org/)      | :red_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [备份](https://github.com/clashdownload/Clash-for-Android) | [教程](https://clashforandroid.org/) |
+| [Clash for Windows](https://clashforwindows.org/)      | :red_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [备份](https://github.com/clashdownload/Clash-for-Windows) | [教程](https://clashforwindows.org/) |
+| [Clash Meta for Android](https://clashmetaforandroid.org/) | :green_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [教程](https://clashmetaforandroid.org/) |
+| [Clash Mi](https://clash-mi.org/)               | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方](https://github.com/KaringX/clashmi/releases) | [教程](https://clash-mi.org/) |
+| [Clash Nyanpasu](https://clashnyanpasu.org/)         | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/LibNyanpasu/clash-nyanpasu/releases) | [教程](https://clashnyanpasu.org/) |
+| [Clash Party](https://clash-party.org/)            | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/mihomo-party-org/clash-party/releases) | [教程](https://clash-party.org/) |
+| [Clash Verge](https://clashverge.org/)            | :red_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/zzzgydi/clash-verge/releases) | [教程](https://clashverge.org/) |
+| [Clash Verge Rev](https://clashvergerev.org/)        | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [教程](https://clashvergerev.org/) |
+| [ClashN](https://getclashn.org/)                 | :red_circle:    | :white_check_mark:       | :x:     | :x:     | :x:   | :x:       | [官方](https://github.com/2dust/clashN/releases) | [教程](https://getclashn.org/) |
+| [ClashX](https://clashx.org/)                 | :red_circle:    | :x:       | :white_check_mark:     | :x:     | :x:   | :x:       | [备份](https://github.com/clashdownload/ClashX) | [教程](https://clashx.org/) |
+| [ClashX Meta](https://clashxmeta.org/)            | :green_circle:    | :x:       | :white_check_mark:     | :x:     | :x:   | :x:       | [官方](https://github.com/MetaCubeX/ClashX.Meta/releases) | [教程](https://clashxmeta.org/) |
+| [FlClash](https://getflclash.org/)                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :white_check_mark:       | [官方](https://github.com/chen08209/FlClash/releases) | [教程](https://getflclash.org/) |
+| [Hiddify](https://gethiddify.org/)                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方](https://github.com/hiddify/hiddify-app/releases) | [教程](https://gethiddify.org/) |
+
 
 ### Clash Verge Rev
 + Clash Verge Rev下载地址：[https://github.com/clash-verge-rev/clash-verge-rev/releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
