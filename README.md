@@ -43,7 +43,7 @@
 | [Hiddify](https://gethiddify.org/)                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方](https://github.com/hiddify/hiddify-app/releases) | [教程](https://gethiddify.org/) |
 | [Sparkle](https://getsparkle.org/)                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/xishang0128/sparkle/releases) | [教程](https://getsparkle.org/) |
 
-## :memo: Clash节点机场推荐
+## Clash节点机场推荐
 
 ### 扬帆云
 - **节点特色**：年付低至10元/月！高速IPLC专线机场，晚高峰不限速，解锁全球流媒体及AI工具！
