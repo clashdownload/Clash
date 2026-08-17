@@ -12,7 +12,7 @@
 
 如果你觉得这个项目对你有帮助，欢迎点右上角的**Star**⭐ 支持一下！
 
-## 如何选择合适的客户端？
+## 📝 如何选择合适的客户端？
 ⚠️ 停更的客户端无法兼容新协议导致节点不可用，建议更新到更安全、更美观、兼容性更好的新版本
 
 ### 新手推荐
@@ -67,7 +67,7 @@
 
 ## 💻 Clash客户端导航
 
-### 🎯 推荐客户端（活跃维护）
+### 推荐客户端（活跃维护）
 
 #### Clash Verge Rev
 + Clash Verge Rev下载地址：[https://github.com/clash-verge-rev/clash-verge-rev/releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
@@ -102,7 +102,7 @@
 + Clash Nyanpasu使用教程：[https://clashnyanpasu.org/](https://clashnyanpasu.org/)
 
 
-### ⚠️ 经典客户端（已停更但仍可用）
+### 经典客户端（已停更但仍可用）
 
 #### Mihomo Party （停更）
 + Mihomo Party下载地址：[https://github.com/mihomo-party-org/mihomo-party/releases](https://github.com/mihomo-party-org/mihomo-party/releases)
