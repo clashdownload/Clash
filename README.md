@@ -69,52 +69,55 @@
 
 ### 推荐客户端（活跃维护）
 
-#### 📌 Clash Verge Rev
-- **下载地址**：[GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
-- **使用教程**：[https://clashvergerev.org/](https://clashvergerev.org/)
+#### Clash Meta For Android
+- **下载地址**：[GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+- **使用教程**：[https://clashmetaforandroid.org/](https://clashmetaforandroid.org/)
 
 #### 📌 Clash Mi
 - **下载地址**：[GitHub Releases](https://github.com/KaringX/clashmi/releases)
 - **使用教程**：[https://clash-mi.org/](https://clash-mi.org/)
 
-#### 📌 ClashX Meta
-- **下载地址**：[GitHub Releases](https://github.com/MetaCubeX/ClashX.Meta/releases)
-- **使用教程**：[https://clashxmeta.org/](https://clashxmeta.org/)
-
-#### Clash Meta For Android
-- **下载地址**：[GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-- **使用教程**：[https://clashmetaforandroid.org/](https://clashmetaforandroid.org/)
-
-#### 📌 Hiddify Next
-- **下载地址**：[GitHub Releases](https://github.com/hiddify/hiddify-app/releases)
-- **使用教程**：[https://hiddifynext.org/](https://hiddifynext.org/)
-
-#### 📌 FlClash
-- **下载地址**：[GitHub Releases](https://github.com/chen08209/FlClash/releases)
-- **使用教程**：[https://getflclash.org/](https://getflclash.org/)
+#### 📌 Clash Nyanpasu
+- **下载地址**：[GitHub Releases](https://github.com/libnyanpasu/clash-nyanpasu/releases)
+- **使用教程**：[https://clashnyanpasu.org/](https://clashnyanpasu.org/)
 
 #### 📌 Clash Party
 - **下载地址**：[GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases)
 - **使用教程**：[https://clash-party.org/](https://clash-party.org/)
 
-#### 📌 Clash Nyanpasu
-- **下载地址**：[GitHub Releases](https://github.com/libnyanpasu/clash-nyanpasu/releases)
-- **使用教程**：[https://clashnyanpasu.org/](https://clashnyanpasu.org/)
+#### 📌 Clash Verge Rev
+- **下载地址**：[GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+- **使用教程**：[https://clashvergerev.org/](https://clashvergerev.org/)
 
+#### 📌 ClashX Meta
+- **下载地址**：[GitHub Releases](https://github.com/MetaCubeX/ClashX.Meta/releases)
+- **使用教程**：[https://clashxmeta.org/](https://clashxmeta.org/)
+
+#### 📌 FlClash
+- **下载地址**：[GitHub Releases](https://github.com/chen08209/FlClash/releases)
+- **使用教程**：[https://getflclash.org/](https://getflclash.org/)
+
+#### 📌 Hiddify
+- **下载地址**：[GitHub Releases](https://github.com/hiddify/hiddify-app/releases)
+- **使用教程**：[https://gethiddify.org/](https://gethiddify.org/)
 
 ### 经典客户端（已停更但仍可用）
 
-#### 📌 Mihomo Party （停更）
-- **下载地址**：[GitHub Releases](https://github.com/mihomo-party-org/mihomo-party/releases)
-- **使用教程**：[https://mihomo-party.org/](https://mihomo-party.org/)
+#### 📌 Clash for Android （停更）
+- **下载地址**：[GitHub Releases](https://github.com/clashdownload/Clash_for_Android)
+- **使用教程**：[https://clashforandroid.org/](https://clashforandroid.org/)
+
+#### 📌 Clash for Windows （停更）
+- **下载地址**：[GitHub Releases](https://github.com/clashdownload/Clash_for_Windows)
+- **使用教程**：[https://clashforwindows.org/](https://clashforwindows.org/)
 
 #### 📌 Clash Verge （停更）
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/Clash_Verge)
 - **使用教程**：[https://clashverge.org/](https://clashverge.org/)
 
-#### 📌 Clash for Windows （停更）
-- **下载地址**：[GitHub Releases](https://github.com/clashdownload/Clash_for_Windows)
-- **使用教程**：[https://clashforwindows.org/](https://clashforwindows.org/)
+#### 📌 clashN （停更）
+- **下载地址**：[GitHub Releases](https://github.com/2dust/clashN/releases)
+- **使用教程**：[https://getclashn.org/](https://getclashn.org/)
 
 #### 📌 ClashX （停更）
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/ClashX)
@@ -124,14 +127,9 @@
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/ClashX_Pro)
 - **使用教程**：[https://clashxpro.org/](https://clashxpro.org/)
 
-#### 📌 Clash for Android （停更）
-- **下载地址**：[GitHub Releases](https://github.com/clashdownload/Clash_for_Android)
-- **使用教程**：[https://clashforandroid.org/](https://clashforandroid.org/)
-
-#### 📌 clashN （停更）
-- **下载地址**：[GitHub Releases](https://github.com/2dust/clashN/releases)
-- **使用教程**：[https://getclashn.org/](https://getclashn.org/)
-
+#### 📌 Mihomo Party （停更）
+- **下载地址**：[GitHub Releases](https://github.com/mihomo-party-org/mihomo-party/releases)
+- **使用教程**：[https://mihomo-party.org/](https://mihomo-party.org/)
 
 ## ⚡ Clash节点推荐
 
