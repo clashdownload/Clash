@@ -13,7 +13,7 @@
 如果你觉得这个项目对你有帮助，欢迎点右上角的**Star**⭐ 支持一下！
 
 ## 如何选择合适的客户端？
-⚠️停更的客户端无法兼容新协议导致节点不可用，建议更新到更安全、更美观、兼容性更好的新版本
+⚠️ 停更的客户端无法兼容新协议导致节点不可用，建议更新到更安全、更美观、兼容性更好的新版本
 
 ### 新手推荐
 - **Windows 用户**：推荐 FlClash（现代化界面）或 Clash Verge Rev （功能齐全）
@@ -23,7 +23,7 @@
 - **鸿蒙用户**：推荐使用桌易通安装 Clash Meta for Android，原生推荐 Clash Box（专为 HarmonyOS 优化但是需要自签证书）
 
 
-## Clash客户端汇总
+## 📊 Clash客户端汇总
 | 客户端                    | 维护状态 | Windows | macOS | Linux | iOS | Android | 仓库 | 教程 |
 |------------------------|------|---------|-------|-------|-----|---------|----|----|
 | [Bettbox](https://getbettbox.org/) | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :white_check_mark:       | [官方](https://github.com/appshubcc/Bettbox/releases) | [教程](https://getbettbox.org/) |
@@ -43,7 +43,7 @@
 | [Hiddify](https://gethiddify.org/)                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方](https://github.com/hiddify/hiddify-app/releases) | [教程](https://gethiddify.org/) |
 | [Sparkle](https://getsparkle.org/)                | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/xishang0128/sparkle/releases) | [教程](https://getsparkle.org/) |
 
-## Clash节点机场推荐
+## 🥇 Clash机场推荐
 
 ### 扬帆云
 - **节点特色**：年付低至10元/月！高速IPLC专线机场，晚高峰不限速，解锁全球流媒体及AI工具！
@@ -65,9 +65,9 @@
 - **节点特色**：年付低至6元/月！全专线中转隧道，高速大带宽不限设备数！高峰时段流媒体4K秒开！
 - **优惠购买**：[优惠购买链接](https://ct.affxc.com/fatcatcloud/)
 
-## Clash客户端导航
+## 💻 Clash客户端导航
 
-### 推荐客户端（活跃维护）
+### 🎯 推荐客户端（活跃维护）
 
 #### Clash Verge Rev
 + Clash Verge Rev下载地址：[https://github.com/clash-verge-rev/clash-verge-rev/releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
@@ -102,7 +102,7 @@
 + Clash Nyanpasu使用教程：[https://clashnyanpasu.org/](https://clashnyanpasu.org/)
 
 
-### 经典客户端（已停更但仍可用）
+### ⚠️ 经典客户端（已停更但仍可用）
 
 #### Mihomo Party （停更）
 + Mihomo Party下载地址：[https://github.com/mihomo-party-org/mihomo-party/releases](https://github.com/mihomo-party-org/mihomo-party/releases)
@@ -133,7 +133,7 @@
 + clashN使用教程：[https://getclashn.org/](https://getclashn.org/)
 
 
-## Clash节点推荐
+## ⚡ Clash节点推荐
 
 ### 1. 扬帆云机场
 扬帆云机场是某实力老牌机场旗下新开便宜机场，也是一家用低价提供高端线路节点的科学上网魔法上网加速器梯子。
