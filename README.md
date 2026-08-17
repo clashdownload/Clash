@@ -24,7 +24,7 @@
 
 
 ## 📊 Clash客户端汇总
-| 客户端                    | 维护状态 | Windows | macOS | Linux | iOS | Android | 仓库 | 使用教程 |
+| 客户端                    | 维护状态 | Windows | macOS | Linux | iOS | Android | 仓库 | 教程 |
 |------------------------|------|---------|-------|-------|-----|---------|----|----|
 | [Bettbox](https://getbettbox.org/) | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :white_check_mark:       | [官方](https://github.com/appshubcc/Bettbox/releases) | [教程](https://getbettbox.org/) |
 | [Clash for Android](https://clashforandroid.org/)      | :red_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [备份](https://github.com/clashdownload/Clash-for-Android) | [教程](https://clashforandroid.org/) |
