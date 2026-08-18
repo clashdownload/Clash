@@ -69,67 +69,97 @@
 
 ### 推荐客户端（活跃维护）
 
+#### 📌 Bettbox
+- **下载地址**：[GitHub Releases](https://github.com/appshubcc/Bettbox/releases)
+- **使用教程**：[https://getbettbox.org/](https://getbettbox.org/)
+- **支持平台**：Windows、macOS、Linux、Android
+
 #### 📌 Clash Meta For Android
 - **下载地址**：[GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
 - **使用教程**：[https://clashmetaforandroid.org/](https://clashmetaforandroid.org/)
+- **支持平台**：Android
 
 #### 📌 Clash Mi
 - **下载地址**：[GitHub Releases](https://github.com/KaringX/clashmi/releases)
 - **使用教程**：[https://clash-mi.org/](https://clash-mi.org/)
+- **支持平台**：Windows、macOS、Linux、iOS、Android
 
 #### 📌 Clash Nyanpasu
 - **下载地址**：[GitHub Releases](https://github.com/libnyanpasu/clash-nyanpasu/releases)
 - **使用教程**：[https://clashnyanpasu.org/](https://clashnyanpasu.org/)
+- **支持平台**：Windows、macOS、Linux
 
 #### 📌 Clash Party
 - **下载地址**：[GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases)
 - **使用教程**：[https://clash-party.org/](https://clash-party.org/)
+- **支持平台**：Windows、macOS、Linux
 
 #### 📌 Clash Verge Rev
 - **下载地址**：[GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases)
 - **使用教程**：[https://clashvergerev.org/](https://clashvergerev.org/)
+- **支持平台**：Windows、macOS、Linux
+
+#### 📌 ClashBox
+- **下载地址**：[GitHub Releases](https://github.com/xiaobaigroup/ClashBox/releases)
+- **使用教程**：[https://clashbox.org/](https://clashbox.org/)
+- **支持平台**：Android
 
 #### 📌 ClashX Meta
 - **下载地址**：[GitHub Releases](https://github.com/MetaCubeX/ClashX.Meta/releases)
 - **使用教程**：[https://clashxmeta.org/](https://clashxmeta.org/)
+- **支持平台**：macOS
 
 #### 📌 FlClash
 - **下载地址**：[GitHub Releases](https://github.com/chen08209/FlClash/releases)
 - **使用教程**：[https://getflclash.org/](https://getflclash.org/)
+- **支持平台**：Windows、macOS、Linux、Android
 
 #### 📌 Hiddify
 - **下载地址**：[GitHub Releases](https://github.com/hiddify/hiddify-app/releases)
 - **使用教程**：[https://gethiddify.org/](https://gethiddify.org/)
+- **支持平台**：Windows、macOS、Linux、iOS、Android
+
+#### 📌 Sparkle
+- **下载地址**：[GitHub Releases](https://github.com/xishang0128/sparkle/releases)
+- **使用教程**：[https://getsparkle.org/](https://getsparkle.org/)
+- **支持平台**：Windows、macOS、Linux
 
 ### 经典客户端（已停更但仍可用）
 
 #### 📌 Clash for Android （停更）
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/Clash_for_Android)
 - **使用教程**：[https://clashforandroid.org/](https://clashforandroid.org/)
+- **支持平台**：Android
 
 #### 📌 Clash for Windows （停更）
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/Clash_for_Windows)
 - **使用教程**：[https://clashforwindows.org/](https://clashforwindows.org/)
+- **支持平台**：Windows、macOS、Linux
 
 #### 📌 Clash Verge （停更）
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/Clash_Verge)
 - **使用教程**：[https://clashverge.org/](https://clashverge.org/)
+- **支持平台**：Windows、macOS、Linux
 
 #### 📌 clashN （停更）
 - **下载地址**：[GitHub Releases](https://github.com/2dust/clashN/releases)
 - **使用教程**：[https://getclashn.org/](https://getclashn.org/)
+- **支持平台**：Windows
 
 #### 📌 ClashX （停更）
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/ClashX)
 - **使用教程**：[https://clashx.org/](https://clashx.org/)
+- **支持平台**：macOS
 
 #### 📌 ClashX Pro （停更）
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/ClashX_Pro)
 - **使用教程**：[https://clashxpro.org/](https://clashxpro.org/)
+- **支持平台**：macOS
 
 #### 📌 Mihomo Party （停更）
 - **下载地址**：[GitHub Releases](https://github.com/mihomo-party-org/mihomo-party/releases)
 - **使用教程**：[https://mihomo-party.org/](https://mihomo-party.org/)
+- **支持平台**：Windows、macOS、Linux
 
 ## ⚡ Clash节点推荐
 
