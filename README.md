@@ -69,6 +69,8 @@
 
 ### 推荐客户端（活跃维护）
 
+以下项目更新活跃、GitHub 社区认可度（Stars）高、涵盖主流平台、新手学习曲线友好，强烈建议作为主力工具。
+
 #### 📌 Bettbox
 - **下载地址**：[GitHub Releases](https://github.com/appshubcc/Bettbox/releases)
 - **使用教程**：[https://getbettbox.org/](https://getbettbox.org/)
@@ -125,6 +127,8 @@
 - **支持平台**：Windows、macOS、Linux
 
 ### 经典客户端（已停更但仍可用）
+
+以下经典项目曾在特定历史时期拥有庞大的用户量，但由于核心开发者退出等原因现已宣布停更。如果您是第一次搭建环境，建议直接从上方表格中选择绿色 :green_circle: 标识的项目下载。
 
 #### 📌 Clash for Android （停更）
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/Clash_for_Android)
