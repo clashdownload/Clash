@@ -130,37 +130,37 @@
 
 以下经典项目曾在特定历史时期拥有庞大的用户量，但由于核心开发者退出等原因现已宣布停更。如果您是第一次搭建环境，建议直接从上方表格中选择绿色 :green_circle: 标识的项目下载。
 
-#### 📌 Clash for Android （停更）
+#### 📌 Clash for Android
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/Clash_for_Android)
 - **使用教程**：[https://clashforandroid.org/](https://clashforandroid.org/)
 - **支持平台**：Android
 
-#### 📌 Clash for Windows （停更）
+#### 📌 Clash for Windows
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/Clash_for_Windows)
 - **使用教程**：[https://clashforwindows.org/](https://clashforwindows.org/)
 - **支持平台**：Windows、macOS、Linux
 
-#### 📌 Clash Verge （停更）
+#### 📌 Clash Verge
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/Clash_Verge)
 - **使用教程**：[https://clashverge.org/](https://clashverge.org/)
 - **支持平台**：Windows、macOS、Linux
 
-#### 📌 clashN （停更）
+#### 📌 clashN
 - **下载地址**：[GitHub Releases](https://github.com/2dust/clashN/releases)
 - **使用教程**：[https://getclashn.org/](https://getclashn.org/)
 - **支持平台**：Windows
 
-#### 📌 ClashX （停更）
+#### 📌 ClashX
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/ClashX)
 - **使用教程**：[https://clashx.org/](https://clashx.org/)
 - **支持平台**：macOS
 
-#### 📌 ClashX Pro （停更）
+#### 📌 ClashX Pro
 - **下载地址**：[GitHub Releases](https://github.com/clashdownload/ClashX_Pro)
 - **使用教程**：[https://clashxpro.org/](https://clashxpro.org/)
 - **支持平台**：macOS
 
-#### 📌 Mihomo Party （停更）
+#### 📌 Mihomo Party
 - **下载地址**：[GitHub Releases](https://github.com/mihomo-party-org/mihomo-party/releases)
 - **使用教程**：[https://mihomo-party.org/](https://mihomo-party.org/)
 - **支持平台**：Windows、macOS、Linux
