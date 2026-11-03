@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Clash官网导航 (2026年11月更新)</h1>
   <p>
-    <b>Clash全平台代理客户端下载 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+    <b>Clash全平台代理客户端下载与备份入口 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Update-2026.11-brightgreen.svg" alt="Update">
@@ -29,13 +29,13 @@
 | 客户端                    | 维护状态 | Windows | macOS | Linux | iOS | Android | 仓库 | 教程 |
 |------------------------|------|---------|-------|-------|-----|---------|----|----|
 | [Bettbox](https://getbettbox.org/?utm_source=github&utm_medium=clashdownload) | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :white_check_mark:       | [官方](https://github.com/appshubcc/Bettbox/releases) | [教程](https://getbettbox.org/?utm_source=github&utm_medium=clashdownload) |
-| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=clashdownload)      | :red_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [备份](https://github.com/clashdownload/Clash-for-Android) | [教程](https://clashforandroid.org/?utm_source=github&utm_medium=clashdownload) |
+| [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=clashdownload)      | :red_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [备份](https://github.com/clashdownload/Clash_for_Android) | [教程](https://clashforandroid.org/?utm_source=github&utm_medium=clashdownload) |
 | [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=clashdownload)      | :red_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [备份](https://github.com/clashdownload/Clash-for-Windows) | [教程](https://clashforwindows.org/?utm_source=github&utm_medium=clashdownload) |
 | [Clash Meta for Android](https://clashmetaforandroid.org/?utm_source=github&utm_medium=clashdownload) | :green_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [官方](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) | [教程](https://clashmetaforandroid.org/?utm_source=github&utm_medium=clashdownload) |
 | [Clash Mi](https://clash-mi.org/?utm_source=github&utm_medium=clashdownload)               | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方](https://github.com/KaringX/clashmi/releases) | [教程](https://clash-mi.org/?utm_source=github&utm_medium=clashdownload) |
 | [Clash Nyanpasu](https://clashnyanpasu.org/?utm_source=github&utm_medium=clashdownload)         | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/LibNyanpasu/clash-nyanpasu/releases) | [教程](https://clashnyanpasu.org/?utm_source=github&utm_medium=clashdownload) |
 | [Clash Party](https://clash-party.org/?utm_source=github&utm_medium=clashdownload)            | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/mihomo-party-org/clash-party/releases) | [教程](https://clash-party.org/?utm_source=github&utm_medium=clashdownload) |
-| [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=clashdownload)            | :red_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/zzzgydi/clash-verge/releases) | [教程](https://clashverge.org/?utm_source=github&utm_medium=clashdownload) |
+| [Clash Verge](https://clashverge.org/?utm_source=github&utm_medium=clashdownload)            | :red_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [备份](https://github.com/clashdownload/Clash_Verge) | [教程](https://clashverge.org/?utm_source=github&utm_medium=clashdownload) |
 | [Clash Verge Rev](https://clashvergerev.org/?utm_source=github&utm_medium=clashdownload)        | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [官方](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [教程](https://clashvergerev.org/?utm_source=github&utm_medium=clashdownload) |
 | [ClashN](https://getclashn.org/?utm_source=github&utm_medium=clashdownload)                 | :red_circle:    | :white_check_mark:       | :x:     | :x:     | :x:   | :x:       | [官方](https://github.com/2dust/clashN/releases) | [教程](https://getclashn.org/?utm_source=github&utm_medium=clashdownload) |
 | [ClashBox](https://clashbox.org/?utm_source=github&utm_medium=clashdownload) | :green_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [官方](https://github.com/xiaobaigroup/ClashBox/releases) | [教程](https://clashbox.org/?utm_source=github&utm_medium=clashdownload) |
@@ -186,8 +186,6 @@
 | LV4套餐     | 按月付  | 49.99 | 700 GB  | 6      |
 | 旗舰版套餐-大流量 | 按月付  | 88.99 | 1200 GB | 8      |
 
-#### 扬帆云机场测速
-
 ---
 
 ### 2. 疾风云
@@ -206,8 +204,6 @@ JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低�
 | 高级版    | 按月付  | 49.99  | 350 GB  | 5      |
 | 旗舰版    | 按月付  | 79.99  | 600 GB  | 8      |
 | 旗舰版大流量 | 按月付  | 119.99 | 1200 GB | 10     |
-
-#### 疾风云机场测速
 
 ---
 
@@ -230,8 +226,6 @@ JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低�
 | 套餐B      | 按季付  | 129.00 | 300 GB | 无限制    |
 | 套餐B      | 按年付  | 299.00 | 500 GB | 无限制    |
 
-#### 大哥云机场测速
-
 ---
 
 ### 4. 闪狐云
@@ -249,8 +243,6 @@ JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低�
 | Standard | 按月付  | 40.00  | 240 GB  | 无限制    |
 | Advanced | 按月付  | 72.00  | 500 GB  | 无限制    |
 | Premium  | 按月付  | 125.00 | 1000 GB | 无限制    |
-
-#### 闪狐云机场测速
 
 ---
 
@@ -273,8 +265,6 @@ JFCloud疾风云机场，是实力老牌机场旗下的新开分站，是用低�
 | 企业套餐  | 按月付  | 180.00 | 1500 GB | 无限制    |
 | 专享节点  | 按月付  | 600.00 | 500 GB  | 无限制    |
 
-#### 肥猫云机场测速
-
 ---
 
 ### 6. CyberGuard加速器
@@ -292,8 +282,6 @@ CyberGuard 机场是一家2023 年开始运营的Shadowsocks 机场，线路有�
 | 标准套餐         | 按月付  | 28.00  | 300 GB  | 无限制    |
 | 高速套餐         | 按月付  | 50.00  | 600 GB  | 无限制    |
 | 企业套餐         | 按月付  | 200.00 | 2000 GB | 无限制    |
-
-#### CyberGuard加速器机场测速
 
 ---
 
@@ -313,11 +301,9 @@ Totoro Cloud龙猫云是一家精品小众专线机场，海外团队，采用Sh
 | VIP3套餐 | 按月付  | 60.00  | 400 GB  | 无限制    |
 | VIP4套餐 | 按月付  | 120.00 | 1000 GB | 无限制    |
 
-#### 龙猫云机场测速
-
 ---
 
-### 9. 青云梯机场
+### 8. 青云梯机场
 青云梯机场成立于2021年, 多年沉淀；全IPLC专线，最大提供2.5GBPs速率，无倍率。
 
 #### 青云梯机场官网
@@ -333,8 +319,6 @@ Totoro Cloud龙猫云是一家精品小众专线机场，海外团队，采用Sh
 | 青云·VIP2 | 按月付  | 45.00  | 300 GB  | 无限制    |
 | 青云·VIP3 | 按月付  | 85.00  | 600 GB  | 无限制    |
 | 青云·VIP4 | 按月付  | 150.00 | 1000 GB | 无限制    |
-
-#### 青云梯机场测速
 
 ---
 
@@ -354,8 +338,6 @@ FlyingBird飞鸟机场是一家成立于2022年的翻墙机场，采用流行的
 | 黄金套餐 | 按月付  | 75.00  | 500 GB  | 无限制    |
 | 钻石套餐 | 按月付  | 150.00 | 1000 GB | 无限制    |
 
-#### 飞鸟机场机场测速
-
 ---
 
 ### 10. 狗狗加速
@@ -372,8 +354,6 @@ FlyingBird飞鸟机场是一家成立于2022年的翻墙机场，采用流行的
 | 标准套餐    | 按月付  | 15.80 | 160 GB | 无限制    |
 | 高级套餐    | 按月付  | 20.80 | 200 GB | 无限制    |
 | 豪华套餐    | 按月付  | 39.80 | 500 GB | 无限制    |
-
-#### 狗狗加速机场测速
 
 ---
 
