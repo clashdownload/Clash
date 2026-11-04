@@ -14,6 +14,8 @@
 
 [代理雷达](https://github.com/guiforcores/dailileida)：每日追踪 mihomo、sing-box、Xray、V2Ray、Clash 及自研内核的代理客户端：开源项目看 GitHub Star，商店应用看美区 App Store / Google Play 评分数。
 
+[节点雷达](https://jiedianleida.com/)：Clash 官网导航配套的免费节点入口（V2Ray / Clash / SS / Trojan），每日测速，选订阅前可先看延迟与可用性。
+
 ## 📝 如何选择合适的客户端？
 ⚠️ 停更的客户端无法兼容新协议导致节点不可用，建议更新到更安全、更美观、兼容性更好的新版本
 
