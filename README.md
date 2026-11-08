@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Clash官网导航 (2026年11月更新)</h1>
+  <h1>Clash 下载导航 (2026年11月更新)</h1>
   <p>
     <b>Clash全平台代理客户端下载与备份入口 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
   </p>
